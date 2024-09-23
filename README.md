@@ -1,2 +1,0 @@
-# alura-pluss
-ALURA PLUSSS
